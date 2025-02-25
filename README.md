@@ -1,4 +1,4 @@
-# Open Source NFT Trading Bot / Открытый Исходный Код NFT Торгового Бота
+# Magic Eden Trading Bot
 
 ---
 
